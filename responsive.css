@@ -1,0 +1,147 @@
+
+@media(max-width: 1000px){
+  
+  .pencarian input{
+    width:50%;
+  }
+  
+  .navbar{
+    width: 90%;
+    height: 45px;
+    padding: 0 50px;
+  }
+  
+  .navbar-logo img{
+    width: 110px;
+  }
+  
+  .navbar-menu li{
+    font-size: 15px;
+    padding: 10px 10px;
+  }
+  
+  .kebutuhan{
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
+  .top-wrapper h1{
+    font-size: 35px;
+  }
+  
+  .top-wrapper h2{
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .kebutuhan h1{
+    font-size: 25px;
+  }
+
+}
+
+
+@media(max-width: 670px){
+  
+  
+  
+  .navbar-menu{
+    display:none;
+  }
+  
+  .menu-icon{
+    display: block;
+  }
+  
+  .kebutuhan {
+    width: 100%;
+  }
+  
+  .btn{
+    width: 80%;
+    padding: 12px auto;
+    display: inline-block;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: none;
+  }
+  
+  .btn:hover{
+    opacity: 1;
+  }
+  
+  .btn:active{
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  .search{
+    
+  }
+  
+  .masuk-daftar{
+    margin-top:30px;
+    padding-bottom: 60px;
+  }
+  
+  .button-title {
+    color: white;
+    font-size: 18px;
+    margin: 5px;
+  }
+
+  
+  .masuk{
+    border: 2px solid #53b94e;
+    color: rgba(76,182,78, 0.8);
+    background-color: white;
+    margin-right: 0;
+    margin-bottom: 10px;
+
+  }
+  
+  
+  .top-wrapper {
+    padding-left: 20px;
+    text-align: left;
+  }
+  
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  
+  .top-wrapper h2{
+    margin: 0;
+  }
+
+  
+  .pencarian p{
+    text-align: center;
+    margin-top: 80px;
+  }
+  
+  .pencarian input{
+    width: 87.5%;
+    margin-right: none;
+    margin: 5px auto;
+  }
+  
+  .subscribtion{
+    width: 80%;
+  }
+  
+  .footer{
+    padding:0;
+  }
+  
+  .footer-logo{
+    margin: 30px 120px;
+  }
+  
+  .footer-woos{
+    display: none;
+  }
+
+}
