@@ -214,3 +214,20 @@ li {
 .subscribe:hover{
     background-color: rgba(255, 0, 0, 0.657);
 }
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 300px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  margin-left: 139px;
+}
+
+.footer-logo2 {
+  float: right;
+  margin-right: 139px;
+}
